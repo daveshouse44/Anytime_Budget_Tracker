@@ -33,16 +33,12 @@ When Connected Online:
 
 ## Link
 
-[Check out this App here!]()
+[Check out this App here!](https://budget-tracker-anytime.herokuapp.com)
 
 
 ## Screenshot
 
-![Image of main page application]() 
-
-![Image of stat page in application]()
-
-![Image of add workout in application]()
+![Image of main page application](public/images/display.png) 
 
 
 ## Technologies-Used
